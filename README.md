@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @joh2nor
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+joh2nor/joh2nor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+大家好我是一名大学生
+我对编程很感兴趣
+我正在学习编程
